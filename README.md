@@ -1,3 +1,8 @@
+hi. i'm me, and i like to program in js, css, html and a bit of python (but soon a lot lol)
+
+well i have literally no other use for this
+oh well...
+
 We're no strangers to love
 You know the rules and so do I
 A full commitment's what I'm thinking of
