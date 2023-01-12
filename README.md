@@ -7,3 +7,4 @@
 - 📫 How to reach me: email@bvfreak.com or blakev2009@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: CEO of Error04
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BVFreak&langs_count=10)](https://github.com/BVFreak/github-readme-stats)
