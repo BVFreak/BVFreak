@@ -8,5 +8,5 @@ http://www.bvfreak.com
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BVFreak.visitor-badge)
 <a href="https://www.youtube.com/channel/UCtCVKyw8w9Dti3vhkKN8LTg">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtCVKyw8w9Dti3vhkKN8LTg&key=AIzaSyAqygxjdsXJY1FwHbP-JPZfXIYLnjnVH4I"/>
+<img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCtCVKyw8w9Dti3vhkKN8LTg&key=AIzaSyAqygxjdsXJY1FwHbP-JPZfXIYLnjnVH4I"/>
 </a>
