@@ -13,10 +13,10 @@
    <a href="https://www.bvfreak.com" target="_blank">
    <img src="https://img.shields.io/badge/Wesbite-grey.svg?&style=for-the-badge&logo=linux&logoColor=black&alt=Website" style="margin-bottom: 5px;" /></a>
    <img src=https://visitor-badge.laobi.icu/badge?page_id=BVFreak.BVFreak />
-</div>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BVFreak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BVFreak&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center">
 <p>
