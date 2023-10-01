@@ -1,6 +1,6 @@
 <h1 align="center"> BVFREAK </h1>
 
-<h2 align="center"> <strong>hello fellow bvfreak enthusiast</strong> </h2>
+<h2 align="center"> <i>hello fellow bvfreak enthusiast</i> </h2>
 
 
 <div align="center">
