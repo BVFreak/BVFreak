@@ -1,6 +1,6 @@
 <h1 align="center"> BVFREAK </h1>
 
-<b align="center"> hello fellow bvfreak enthusiast </b>
+<h2 align="center"> <strong>hello fellow bvfreak enthusiast</strong> </h2>
 
 
 <div align="center">
@@ -18,7 +18,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=BVFreak&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BVFreak&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<h1>
+<div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -33,4 +33,4 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="" alt="" width="40" height="40"/>&nbsp;
-</h1>
+</div>
